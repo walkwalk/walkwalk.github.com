@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Aloha!"
+date: 2012-07-15 22:37
+comments: true
+categories: News
+---
+
+Walk Walk Blog is up! From now on, I will start to share my weekend runaway trips here, 
+as well as any upcoming interesting events in my local community. 
+
+Subscribe the [blog feed](http://feeds.feedburner.com/walkwalk), and stay tune! :)
+
+Gee, I need a new Octopress theme.

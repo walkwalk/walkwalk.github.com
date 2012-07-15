@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Walk Walk Blog]]></title>
-  <link href="http://walkwalk.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: News | Walk Walk Blog]]></title>
+  <link href="http://walkwalk.github.com/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://walkwalk.github.com/"/>
   <updated>2012-07-15T22:47:38+08:00</updated>
   <id>http://walkwalk.github.com/</id>

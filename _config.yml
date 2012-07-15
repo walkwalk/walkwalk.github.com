@@ -3,11 +3,11 @@
 # ----------------------- #
 
 url: http://walkwalk.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: Walk Walk Blog
+subtitle: Join my secret runaway trips in Malaysia
+author: Ming Ming
 simple_search: http://google.com/search
-description:
+description: Share my weekend runaway trips, and vacations in Malaysia.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: http://feeds.feedburner.com/walkwalk
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:

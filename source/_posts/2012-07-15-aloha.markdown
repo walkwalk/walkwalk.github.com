@@ -6,8 +6,8 @@ comments: true
 categories: News
 ---
 
-Walk Walk Blog is up! From now on, I will start to share my weekend runaway trips here, 
-as well as any upcoming interesting events in my local community. 
+Walk Walk Blog is up! I will start sharing my weekend runaway trips here, 
+as well as any upcoming interesting local events in the town. 
 
 Subscribe the [blog feed](http://feeds.feedburner.com/walkwalk), and stay tune! :)
 

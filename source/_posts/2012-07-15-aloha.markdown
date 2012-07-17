@@ -3,6 +3,7 @@ layout: post
 title: "Aloha!"
 date: 2012-07-15 22:37
 comments: true
+author: Ming Ming
 categories: News
 ---
 

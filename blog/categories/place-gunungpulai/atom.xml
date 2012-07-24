@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Walk Walk Blog]]></title>
-  <link href="http://walkwalk.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Place-GunungPulai | Walk Walk Blog]]></title>
+  <link href="http://walkwalk.github.com/blog/categories/place-gunungpulai/atom.xml" rel="self"/>
   <link href="http://walkwalk.github.com/"/>
   <updated>2012-07-24T09:40:06+08:00</updated>
   <id>http://walkwalk.github.com/</id>
@@ -32,13 +32,13 @@ up the water level, while we still can enjoy the big sunny days.</p>
 It has a <strong>well-built tar road</strong>, with <strong>1.5 to 2 hours</strong> of walking time
 to reach the summit. <a href="http://bikejourneys.blogspot.sg/2010/09/pain-up-gunung-pulai.html">Mountain</a> <a href="http://jeffandkimpaine.com/blog2/2010/07/11/gunung-pulai-translates-to-crazy-man-ride/">bikers</a> love the steep slopes here.</p>
 
-<p><strong><em>Picnic and Swimming</em></strong> - That&#8217;s what we went for! :) The main waterfall is <strong>20-minute walk from entrance gate</strong>. It
+<p><strong><em>Picnic and Swimming</em></strong> - That's what we went for! :) The main waterfall is <strong>20-minute walk from entrance gate</strong>. It
 has a <strong>small pool</strong> with cold fresh running water, starting from shallow to over 2-meter deep.</p>
 
 <p><img class="right" src="https://lh6.googleusercontent.com/-8DEyYaRwxJY/UA1iBAyA3fI/AAAAAAAAJf0/t3cA90ZgbbU/s144/469420_4275900621598_1092832976_o.jpg" title="Kok Haur cleaned up rubbish around the waterfall." ></p>
 
 <p><strong><em>Photographing</em></strong> - In a sunny morning, you will see <strong>sun rays shine through tree leaves</strong> on the way
-to the waterfall. Don&#8217;t miss that!</p>
+to the waterfall. Don't miss that!</p>
 
 <p><strong><em>Save the Earth</em></strong> - There are a lot more polystyrene plates and cups scattered all over the waterfall site, since my last visit. Before we left, my friend Kok Haur decided to help cleaning up the mess, but we definitely <strong>need more hands</strong>!</p>
 
@@ -60,9 +60,9 @@ marginheight="0" marginwidth="0" src="https://maps.google.com.my/maps/ms?msa=0&a
 
 <ol>
 <li>From Johor Bahru, take <a href="http://plus.com.my/index.php?id=nse"><strong>PLUS North-Sourth expressway</strong></a> towards Kuala Lumpur.</li>
-<li>Exit at <strong>Kulaijaya</strong> toll, you will see the <strong>red signboard &#8220;Gunung Pulai&#8221;</strong>.</li>
+<li>Exit at <strong>Kulaijaya</strong> toll, you will see the <strong>red signboard "Gunung Pulai"</strong>.</li>
 <li>Turn <strong>right</strong> onto <strong>Jalan Sawah</strong>.</li>
-<li>Drive straight until you see the <strong>signboard &#8220;Kampung Sri Gunung Pulai&#8221;</strong>.</li>
+<li>Drive straight until you see the <strong>signboard "Kampung Sri Gunung Pulai"</strong>.</li>
 <li>Turn <strong>left</strong> into the village.</li>
 <li>Go straight and arrive at the <strong>entrance carpark</strong>.</li>
 </ol>
@@ -88,20 +88,6 @@ in <strong>Kulai town</strong>, and for lunch as well.</li>
 
 <p>As I know, there are <strong>2 more waterfall sites hidden further</strong> in the
 mountain. I will blog about them when I go there again. Stay tune!</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Aloha!]]></title>
-    <link href="http://walkwalk.github.com/blog/2012/07/15/aloha/"/>
-    <updated>2012-07-15T22:37:00+08:00</updated>
-    <id>http://walkwalk.github.com/blog/2012/07/15/aloha</id>
-    <content type="html"><![CDATA[<p>Walk Walk Blog is up! I will start sharing my weekend runaway trips here,
-as well as any upcoming interesting local events in the town.</p>
-
-<p>Subscribe the <a href="http://feeds.feedburner.com/walkwalk">blog feed</a>, and stay tune! :)</p>
-
-<p>Gee, I need a new Octopress theme.</p>
 ]]></content>
   </entry>
   

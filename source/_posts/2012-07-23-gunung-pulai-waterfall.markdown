@@ -39,7 +39,7 @@ Location Map
 -----
 **GPS Location: [1.596587,103.53919](https://maps.google.com/maps?daddr=1.596587,103.53919)**
 
-<iframe width="100%" height="400" frameborder="0" scrolling="no"
+<iframe width="95%" height="400" frameborder="0" scrolling="no"
 marginheight="0" marginwidth="0" src="https://maps.google.com.my/maps/ms?msa=0&amp;msid=205295775928081280405.0004c4f3d03b24d4d8f37&amp;ie=UTF8&amp;t=m&amp;ll=1.591783,103.586311&amp;spn=0.164731,0.219727&amp;z=11&amp;output=embed"></iframe><br /><small>View <a target="_blank" href="https://maps.google.com.my/maps/ms?msa=0&amp;msid=205295775928081280405.0004c4f3d03b24d4d8f37&amp;ie=UTF8&amp;t=m&amp;ll=1.591783,103.586311&amp;spn=0.164731,0.219727&amp;z=12&amp;source=embed" style="color:#0000FF;text-align:left">Gunung Pulai Waterfall - Directions</a> in a larger map</small>
 
 <br/><br/>

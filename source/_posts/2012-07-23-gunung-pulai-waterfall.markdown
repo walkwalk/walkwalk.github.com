@@ -5,7 +5,7 @@ date: 2012-07-23 20:41
 comments: true
 categories: 
   - Malaysia-Johor
-  - Place-GunungPulai
+  - Place-Gunung-Pulai
   - Green
   - Waterfall
 ---

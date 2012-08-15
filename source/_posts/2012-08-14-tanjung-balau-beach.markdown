@@ -29,14 +29,17 @@ Things To Do
 {%img https://lh5.googleusercontent.com/-UTIQ6tBlWAE/UCkSxX62eII/AAAAAAAAJmE/qpscD7_Fp8k/s144/IMG_1576.JPG  BBQ at jetty beach %} 
 {%img https://lh6.googleusercontent.com/-yFws2Q2yXrA/UCkW0gP28WI/AAAAAAAAJoc/kK-jNLiZ428/s144/IMG_1620.JPG  Sunrise at Tanjung Balau %} 
 
-- ***Star/Meteor Shower Gazing*** - the beach has **little light pollution at night**.
-  All you need is a bit of luck. 
-- ***Swimming*** - **Bring your swim suit** to public beach. There is a **swimming pool** at Pelangi Balau resort if you stay there.
-- ***BBQ*** - **Bring your own food and BBQ gears** to public beach, or the beach at jetty.
-  Or you can pay for BBQ package/site provided by resorts. 
-- ***Play Kites*** - Bring your kites to the **large grass field at public beach**.
-- ***Photographing*** - Go to public beach during **sunset**, wake up for **sunrise**. Check out the **rocks at the jetty beach**.
-- ***Fishermen Museum*** - there is a [fishermen museum](http://www.youtube.com/watch?v=fRCoGToS0Jw) at public beach. Free admission.
+***Star/Meteor Shower Gazing*** - the beach has **little light pollution at night**. All you need is a bit of luck. 
+
+***Swimming*** - **Bring your swim suit** to public beach. There is a **swimming pool** at Pelangi Balau resort if you stay there.
+
+***BBQ*** - **Bring your own food and BBQ gears** to public beach, or the beach at jetty.  Or you can pay for BBQ package/site provided by resorts. 
+
+***Play Kites*** - Bring your kites to the **large grass field at public beach**.
+
+***Photographing*** - Go to public beach during **sunset**, wake up for **sunrise**. Check out the **rocks at the jetty beach**.
+
+***Fishermen Museum*** - there is a [fishermen museum](http://www.youtube.com/watch?v=fRCoGToS0Jw) at public beach. Free admission.
 
 Stay
 ---

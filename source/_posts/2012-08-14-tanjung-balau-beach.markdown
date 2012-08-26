@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Tanjung Balau Beach"
+title: "Desaru Tanjung Balau Beach"
 date: 2012-08-14 22:56
 comments: true
 categories: 
   - Malaysia-Johor
+  - Place-Desaru
   - Place-Tanjung-Balau
   - Beach
 ---
